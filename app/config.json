@@ -1,0 +1,6 @@
+{
+  "auth": {
+    "login": "/login",
+    "redirect_after_login": "/reservations"
+  }
+}
